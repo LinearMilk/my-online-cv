@@ -40,11 +40,11 @@ h2 {
 }
 
 .list-social-icons a {
-  color: #495057;
+  color: #360612;
 }
 
 .list-social-icons a:hover {
-  color: #360612;
+  color: black;
 }
 
 .list-social-icons a .fa-lg {
@@ -144,4 +144,13 @@ a {
 
 a:hover, a:focus, a:active {
   color: black;
+}
+
+.fa-ul {
+  margin-left: 0.75em;
+}
+
+.phone {
+  overflow: hidden;
+  white-space: nowrap;
 }
