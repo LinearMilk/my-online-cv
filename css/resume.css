@@ -151,3 +151,8 @@ a:hover, a:focus, a:active {
 .fa-ul {
   margin-left: 0.75em;
 }
+
+.phone {
+  overflow: hidden;
+  white-space: nowrap;
+}
