@@ -140,8 +140,14 @@ section.resume-section .resume-item .resume-date {
 
 a {
   color: #360612;
+  text-decoration-style: solid;
+  text-decoration: underline;
 }
 
 a:hover, a:focus, a:active {
   color: black;
+}
+
+.fa-ul {
+  margin-left: 0.75em;
 }

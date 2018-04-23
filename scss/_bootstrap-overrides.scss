@@ -8,9 +8,15 @@
 
 a {
   color: $primary;
+  text-decoration-style: solid;
+  text-decoration: underline;
   &:hover,
   &:focus,
   &:active {
     color: darken($primary, 15%);
   }
+}
+
+.fa-ul {
+  margin-left: 0.75em;
 }
