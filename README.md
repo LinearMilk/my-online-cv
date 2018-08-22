@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Preview](http://linearmilk.com/previews/online-cv-preview.png)](http://www.linearmilk.com/)
+[![Preview](http://linearmilk.com/previews/online-cv-preview.jpg)](http://www.linearmilk.com/)
 
 ## Download and Installation
 
